@@ -1,5 +1,5 @@
 {
-	"name": "IAXPing.js",
+	"name": "iaxping",
 	"version": "1.0.0",
 	"description": "Node module to send RFC 5456 section 6.7.1 IAX POKE",
 	"main": "index.js",
